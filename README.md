@@ -1,4 +1,4 @@
-# cloud-music
+# wer
 
 ## Project setup
 ```
