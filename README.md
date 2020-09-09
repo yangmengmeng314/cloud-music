@@ -1,4 +1,4 @@
-# wer
+# mu-music
 
 ## Project setup
 ```
