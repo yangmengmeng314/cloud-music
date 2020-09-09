@@ -1,4 +1,4 @@
-# cloud-music
+# mu-music
 
 ## Project setup
 ```
